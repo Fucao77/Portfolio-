@@ -51,10 +51,10 @@ sr.reveal('.skills__data',{delay: 400});
 sr.reveal('.skills__img',{delay: 600});
 
 /*SCROLL Adobe*/
-sr.reveal('.work__img',{interval: 200}); 
+sr.reveal('.work__img',{delay: 200}); 
 
 /*SCROLL CONTACT*/
-sr.reveal('.contact__container',{interval: 200}); 
+sr.reveal('.contact__container',{delay: 200}); 
 
 
 
