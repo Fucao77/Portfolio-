@@ -475,10 +475,12 @@ img {
 }
 
 
-/* ===== Responsive =====*/
+/* ===== Responsive Smartphone=====*/
 @media screen and (min-width: 768px) {
   body {
     margin: 0;
+    transform: none;
+    transition: none;
   }
 
 
@@ -590,7 +592,7 @@ img {
 
 }
 
-/* responsive tablette */
+/* responsive Tablette */
 
 @media screen and (min-width: 1024px) {
   .bd-grid {
